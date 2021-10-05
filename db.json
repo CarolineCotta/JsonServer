@@ -12,7 +12,10 @@
   "opcaoCorreta":[ 
         {"id": 1,
           "postId": 1 ,
-        "Texto": "As asserções | e || são proposições verdadeiras, e a || é uma justificativa correta da |."}
+        "Texto": "As asserções | e || são proposições verdadeiras, e a || é uma justificativa correta da |."},
+    {"id": 2,
+          "postId": 2 ,
+        "Texto": "| e |||, apenas."}
   ],
   "opcaoErrada": [
         {"id": 1,
@@ -26,7 +29,21 @@
         "errada":"A asserção | é uma proposição falsa, e a || é uma proposição verdadeira."},
         {"id": 4,
           "postId": 1 ,
-        "errada":"As asserções | e || são proposições falsas."}
+        "errada":"As asserções | e || são proposições falsas."},
+       {"id": 5,
+          "postId": 2 ,
+        "errada":"|, apenas."},
+       {"id": 6,
+          "postId": 2 ,
+        "errada": "||, apenas."},
+        {"id": 7,
+          "postId": 2 ,
+        "errada":"|| e |||, apenas."},
+        {"id": 8,
+          "postId": 2 ,
+        "errada":" |, || e |||."}
+    
+    
       ]
 
 }
