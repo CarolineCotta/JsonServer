@@ -17,12 +17,12 @@
     {
       "postId": 1,
       "id": 1,
-      "Texto": "As asserções | e || são proposições verdadeiras, e a || é uma justificativa correta da |."
+      "Correta": "As asserções | e || são proposições verdadeiras, e a || é uma justificativa correta da |."
     },
     {
       "postId": 2,
       "id": 2,
-      "Texto": "| e |||, apenas."
+      "Correta": "| e |||, apenas."
     }
   ],
   "opcaoErrada": [
